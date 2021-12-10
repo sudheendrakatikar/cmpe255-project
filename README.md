@@ -15,3 +15,12 @@ We will try to answer some questions that arise out of reviewing the data, and p
 - Do certain vehicles tend to have a recurring cause for the accident?
 - Does a street get particularly busy during any hour of the day?
 
+---
+Instructions:
+
+The code for this project was written in the Google Colab environment. The main file for this project is maincode.ipynb. Other files in this repository contain smaller examples of code that our group was able to referernce while working on the main file. 
+After opening the file in google colab, you will see sections on the side that splits the code up. To begin, the first block contains the Includes section and so on. Some sections such as the "Define CLeanup Data Functions" will look incomplete. This section serves as a template for our team members to grab important blocks of code and insert it into the appropriate sections and modify them for their own use, since every method is different.
+
+In order to run the code, you must make sure that the dataset is in your google drive environment.
+
+The main part of the code is contained within the Method Functions. This is where the code for each method is performed. There is also a data visualizations section. This is where some of the graphics for visualizing data is displayed.
